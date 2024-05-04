@@ -27,6 +27,8 @@ Ažurirano, 19.8.2022.
 
 Primjerice za Grad Zagreb, može se putem sustava [e-bebe](https://e-pisarnica.zagreb.hr/ePrijavnicePublicWeb/tab/parents) ukoliko zadovoljavate [uvjete](https://e-pisarnica.zagreb.hr/ePrijavnicePublicWeb/tab/parents)
 
+Informacije o potporama za novorođenče po mjestu prebivališta mogu se saznati na [e-roditelj.hr](https://e-roditelj.hr/)
+
 ## Dolazak kući i patronažna sestra
 
 Patronažnoj sestri se automatski pojavljuje novorođena beba u sustavu te kontaktira roditelje, no poželjno je da je roditelji oko mjesec dana prije očekivanog porodao bavijeste te se upoznaju. Moguće je da su roditelji prijavljeni na drugoj adresi nego gdje stvarno žive, pa treba provjeriti da su adrese sve ispravne (patronažna sestra dolazi tamo gdje se fizički nalazite, a ne nužno na adresu navedenu na osobnoj iskaznici). Patronažna sestra dolazi više puta u stan, pomaže, educira (dojenje, držanje, njega pupka, kupanje), radi osnovnu zdravstvenu provjeru bebe (težina i sl.) i to se ponavlja dok ona ne zaključi da više nema potrebe za istim (cca 3-4 tjedna).
